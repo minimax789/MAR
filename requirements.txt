@@ -4,3 +4,4 @@ psutil
 pymediainfo
 tgcrypto
 Telethon
+git+https://github.com/kaif-00z/html-telegraph-poster
