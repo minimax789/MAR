@@ -4,4 +4,3 @@ psutil
 pymediainfo
 tgcrypto
 Telethon
-html_telegraph_poster
