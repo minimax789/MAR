@@ -6,3 +6,4 @@ tgcrypto
 Telethon
 html-telegraph-poster
 lxml[html_clean]
+pyaesni
